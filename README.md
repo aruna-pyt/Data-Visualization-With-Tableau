@@ -1,5 +1,5 @@
 # Note :-
-This repository is under construction and I have planned to solve 12 Business Problem using Tableau and I am uploading all the solution regularly.
+This repository is under construction and I have planned to solve some Business Problems using Tableau and I am uploading all the solution regularly.
 
 Each .tbwx file contains Data, Sheet, Dashboard and Story. In dashboard both Problems and Solution are provided(If you wish to see you may see). *All the visualizations are done using Sample Superstore Dataset.*
 
